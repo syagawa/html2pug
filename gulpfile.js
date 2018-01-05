@@ -7,3 +7,6 @@ gulp.task('pug', function() {
   .pipe(html2pug(/* options for html2pug such as { fragment: true } */))
   .pipe(gulp.dest('pug'));
 });
+
+gulp.task("default", ["pug"],function(){
+});

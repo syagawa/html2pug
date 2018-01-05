@@ -1,0 +1,17 @@
+{
+  "name": "html2pug",
+  "version": "1.0.0",
+  "description": "## 概要 htmlファイルをpug(jade)ファイルに変更する",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-html2pug": "^1.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

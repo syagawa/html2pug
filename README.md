@@ -1,7 +1,7 @@
 # HTML to pug
 
 ## 概要
-htmlファイルをpug(jade)ファイルに変更する
+htmlファイルをpug(jade)ファイルに変換する
 
 ## 必須環境
 node.jsとnpmの動く環境

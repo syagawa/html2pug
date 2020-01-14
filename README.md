@@ -1,14 +1,14 @@
-# HTML to pug
+# HTML to pug with Gulp
 
-## 概要
-htmlファイルをpug(jade)ファイルに変換する
+## About
+Publish pug file from HTML file
 
-## 必須環境
-node.jsとnpmの動く環境
+## require
+  * node.js
+  * npm
 
-## コンバート方法
+## usage
 
-convert.htmlに書き出したいhtmlを貼って保存する。  
-`$ gulp`を実行  
-pugディレクトリ内にconvert.pugが作成される
-
+1. Paste html to convert.html
+2. `$npx gulp`
+3. published pug/convert.pug
